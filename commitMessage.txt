@@ -3,3 +3,4 @@ finish 2-1
 start 2-2
 2-3
 start 2-4
+start fizbuz
